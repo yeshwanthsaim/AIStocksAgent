@@ -1,7 +1,7 @@
 
 # 📈 AI Stocks Agent 
 
-**AI-Powered Stock Analysis Agent**  
+**AI-Powered Stock Analysis Agent**  with **Crew AI**
 An intelligent agent that identifies top-performing stocks, designed for users who want data-driven insights for informed investment decisions. This project leverages the **Alpha Vantage** and **Yahoo Finance APIs** to provide real-time analysis and top stock picks, making stock analysis efficient and accessible.
 
 ---
